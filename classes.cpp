@@ -12,12 +12,12 @@
 
 using namespace std;
 
-//class to convert to seconds
+//class to convert to seconds and read time
 class time
 {
     public:
     
-    // function to convert input integer into string
+    // function to convert input integer into array
     void tostring(int i)
     {
         int s[2];
